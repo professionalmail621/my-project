@@ -7,3 +7,6 @@ print(greet("Github, greeting="Hi"))
 def farewell(name):
     return f"Good bye, {name}!"
     print('Farewell!')
+
+def multiply(a,b):
+    return a * b
